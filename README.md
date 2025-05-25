@@ -1,0 +1,2 @@
+# detectare-anomalii
+STUDENT-DEJICA 
