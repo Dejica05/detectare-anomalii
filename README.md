@@ -1,8 +1,8 @@
 # Proiect D7-T2: Detectia Anomaliilor in Seturi de Date Medicale
 
-**Echipa: 21-E6
+Echipa: 21-E6
 Student: Dejica P. Andrei-Radu
-Sursa de date: Cerebral Stroke Prediction – Kaggle**__
+Sursa de date: Cerebral Stroke Prediction – Kaggle
 
 # 1.Introducere
 Acest proiect are ca obiectiv analiza unui set de date medicale care contine informatii despre pacienti si riscul acestora de a suferi un accident vascular cerebral (AVC). Scopul principal este identificarea valorilor anormale (outlieri), care pot semnala atat erori de colectare, cat si cazuri rare cu relevanta clinica sau statistica.
