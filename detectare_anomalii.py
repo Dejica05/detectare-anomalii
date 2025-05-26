@@ -5,6 +5,7 @@ Student: DEJICA P. ANDREI-RADU
 
 Sursa date: https://www.kaggle.com/datasets/shashwatwork/cerebral-stroke-predictionimbalaced-dataset
 Sursa IsolationForest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html#sklearn.ensemble.IsolationForest
+Sursa IsolationForest2:https://medium.com/@corymaklin/isolation-forest-799fceacdda4
 Sursa z-score: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html
 Sursa grafice: https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_label_demo.htmlklearn.ensemble.IsolationForest
 """
